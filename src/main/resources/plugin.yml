@@ -1,0 +1,11 @@
+name: Nightvision
+version: ${project.version}
+main: com.oxywire.nightvision.NightvisionPlugin
+api-version: 1.13
+commands:
+  nightvision:
+    description: Gives the player night vision.
+    usage: /nightvision
+    permission: nightvision.use
+    aliases:
+      - nv

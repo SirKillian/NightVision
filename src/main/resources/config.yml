@@ -1,0 +1,6 @@
+settings:
+  sound: BLOCK_NOTE_BLOCK_PLING
+  particle: CRIMSON_SPORE
+  message:
+    enabled: "&aNightvision Enabled"
+    disabled: "&cNightvision Disabled"
